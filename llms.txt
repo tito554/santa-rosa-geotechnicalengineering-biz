@@ -1,0 +1,46 @@
+# Geotechnicalengineering — Santa Rosa
+
+> Geotechnical engineering services in Santa Rosa, United States.
+
+## Services
+- [Anchors](https://santa-rosa.geotechnicalengineering.biz/anchors/)
+- [Atterberg Limits](https://santa-rosa.geotechnicalengineering.biz/atterberg-limits/)
+- [Cpt Test](https://santa-rosa.geotechnicalengineering.biz/cpt-test/)
+- [Deep Excavations](https://santa-rosa.geotechnicalengineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://santa-rosa.geotechnicalengineering.biz/excavation-monitoring/)
+- [Excavations](https://santa-rosa.geotechnicalengineering.biz/excavations/)
+- [Flexible Pavement](https://santa-rosa.geotechnicalengineering.biz/flexible-pavement/)
+- [Footings](https://santa-rosa.geotechnicalengineering.biz/footings/)
+- [Foundations](https://santa-rosa.geotechnicalengineering.biz/foundations/)
+- [Geophysics](https://santa-rosa.geotechnicalengineering.biz/geophysics/)
+- [Ground Improvement](https://santa-rosa.geotechnicalengineering.biz/ground-improvement/)
+- [Grouting](https://santa-rosa.geotechnicalengineering.biz/grouting/)
+- [In Situ Permeability](https://santa-rosa.geotechnicalengineering.biz/in-situ-permeability/)
+- [Investigation](https://santa-rosa.geotechnicalengineering.biz/investigation/)
+- [Lab In Situ](https://santa-rosa.geotechnicalengineering.biz/lab-in-situ/)
+- [Laboratory](https://santa-rosa.geotechnicalengineering.biz/laboratory/)
+- [Liquefaction](https://santa-rosa.geotechnicalengineering.biz/liquefaction/)
+- [Masw](https://santa-rosa.geotechnicalengineering.biz/masw/)
+- [Mat Foundations](https://santa-rosa.geotechnicalengineering.biz/mat-foundations/)
+- [Piles](https://santa-rosa.geotechnicalengineering.biz/piles/)
+- [Plate Load Test](https://santa-rosa.geotechnicalengineering.biz/plate-load-test/)
+- [Resistivity](https://santa-rosa.geotechnicalengineering.biz/resistivity/)
+- [Retaining Walls](https://santa-rosa.geotechnicalengineering.biz/retaining-walls/)
+- [Road Geotechnics](https://santa-rosa.geotechnicalengineering.biz/road-geotechnics/)
+- [Sand Cone Density](https://santa-rosa.geotechnicalengineering.biz/sand-cone-density/)
+- [Seismic](https://santa-rosa.geotechnicalengineering.biz/seismic/)
+- [Seismic Isolation](https://santa-rosa.geotechnicalengineering.biz/seismic-isolation/)
+- [Seismic Refraction](https://santa-rosa.geotechnicalengineering.biz/seismic-refraction/)
+- [Slope Stability](https://santa-rosa.geotechnicalengineering.biz/slope-stability/)
+- [Slopes](https://santa-rosa.geotechnicalengineering.biz/slopes/)
+- [Soft Ground Tunnels](https://santa-rosa.geotechnicalengineering.biz/soft-ground-tunnels/)
+- [Test Pits](https://santa-rosa.geotechnicalengineering.biz/test-pits/)
+- [Triaxial](https://santa-rosa.geotechnicalengineering.biz/triaxial/)
+- [Vibrocompaction](https://santa-rosa.geotechnicalengineering.biz/vibrocompaction/)
+
+## Contact
+- Website: https://santa-rosa.geotechnicalengineering.biz/
+
+## About
+This site provides geotechnical engineering services in Santa Rosa, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
